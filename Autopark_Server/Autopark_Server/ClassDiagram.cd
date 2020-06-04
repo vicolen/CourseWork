@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AdminSystem" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdminSystem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExpertSystem" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAACAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>ExpertSystem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Method" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Method.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAgAAEAA=</HashCode>
+      <FileName>System.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UserSystem" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgQAAIAAABBAAAACAEAAAAAAAEAAAAAAAwCgEAEAA=</HashCode>
+      <FileName>UserSystem.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Venicle" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAABAgAAEABBAAAAAWAAAgECBAA=</HashCode>
+      <FileName>Venicle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
